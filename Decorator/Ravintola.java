@@ -8,5 +8,6 @@ public class Ravintola {
         System.out.println("1, " + pizza.getKuvaus() + " " + pizza.getHinta());
         System.out.println("2, " + pizza2.getKuvaus() + " " + pizza2.getHinta());
         System.out.println("3, " + pizza3.getKuvaus() + " " + pizza3.getHinta());
+
     }
 }
